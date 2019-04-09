@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/expanse-org/ethash"
+	"github.com/expanse-org/exphash"
 	"github.com/expanse-org/go-expanse/common"
 )
 
